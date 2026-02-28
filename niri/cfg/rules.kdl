@@ -13,7 +13,7 @@
         open-focused false
     }
     window-rule {
-        match title="Vivaldi"
+        match title="Zen Browser"
         open-on-workspace "2"
         open-focused true
     }
