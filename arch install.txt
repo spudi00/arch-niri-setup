@@ -16,7 +16,7 @@ cd yay
 makepkg -si
 
 Packages from official repos (pacman)
-sudo pacman -S --noconfirm discord mpv feh steam obs-studio neovim ntfs-3g qbittorrent cava tty-clock rocm-smi-lib
+sudo pacman -S --noconfirm discord mpv feh steam obs-studio neovim ntfs-3g qbittorrent cava tty-clock rocm-smi-lib flatpak
 
 Packages from AUR (yay)
 yay -S --noconfirm spotify zen-browser-bin faugus-launcher noctalia-shell
