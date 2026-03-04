@@ -1,5 +1,5 @@
     window-rule {
-        geometry-corner-radius 5 // Set every window radius
+        geometry-corner-radius 20 // Set every window radius
         clip-to-geometry true
     }
 
@@ -22,3 +22,4 @@
         open-on-workspace "3"
         open-focused false
     }
+    

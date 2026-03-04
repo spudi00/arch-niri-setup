@@ -1,7 +1,8 @@
     layout {
-        gaps 8 // Gap between windows
+        gaps 10 // Gap between windows
         center-focused-column "never" // Don’t auto-center focused column
-
+        always-center-single-column
+        
         background-color "transparent" // <- needed for noctalia-shell to set wallpaper
 
         preset-column-widths {
@@ -16,9 +17,9 @@
 
         border {
             on
-            width 2
+            width 1.5
             active-color "#aaaaaa"
-            inactive-color "#505050"
+            inactive-color "#00000000"
             urgent-color "#9b0000"
         }
 
