@@ -17,8 +17,8 @@
 
         border {
             on
-            width 1.5
-            active-color "#aaaaaa"
+            width 1
+            active-color "#aaaaaa33"
             inactive-color "#00000000"
             urgent-color "#9b0000"
         }
